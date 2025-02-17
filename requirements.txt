@@ -1,0 +1,11 @@
+numpy
+matplotlib
+opencv-python
+opencv-contrib-python
+scikit-learn
+scikit-image
+scipy
+imutils
+pytesseract
+cmake
+dlib
